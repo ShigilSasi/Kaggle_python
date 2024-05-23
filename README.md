@@ -14,3 +14,6 @@ Exercise 5: In kaggale done the 5 exercise  in introduction of lists
 
 
 Exercise 6: In kaggale done the 6 exercise in syntax, variables and numbers
+
+
+Exercise 7: In kaggale done the 7 exercise in function and getting help
