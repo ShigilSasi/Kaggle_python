@@ -17,3 +17,6 @@ Exercise 6: In kaggale done the 6 exercise in syntax, variables and numbers
 
 
 Exercise 7: In kaggale done the 7 exercise in function and getting help
+
+
+Exercise 8: In kaggale done the 8 exercise in booleans and conditionals
