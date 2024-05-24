@@ -20,3 +20,6 @@ Exercise 7: In kaggale done the 7 exercise in function and getting help
 
 
 Exercise 8: In kaggale done the 8 exercise in booleans and conditionals
+
+
+Exercise 9: In kaggale done the 9 exercise in lists
