@@ -23,3 +23,23 @@ Exercise 8: In kaggale done the 8 exercise in booleans and conditionals
 
 
 Exercise 9: In kaggale done the 9 exercise in lists
+
+
+Exercise 10: In kaggale done the 10 exercise in loops and lists comprehension
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
